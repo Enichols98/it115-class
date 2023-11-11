@@ -1,0 +1,15 @@
+import json
+
+
+data = {
+
+    'name': 'John Doe',
+    'age': 35,
+    'city': 'New York, NY',
+    'interests': ['Read','Exercise','Rest'],
+    'is student': True
+
+}
+
+with open('data.json', 'w') as json_file:
+    json.dump(data,json)
