@@ -6,7 +6,7 @@ data = {
     'name': 'Elizabeth Nichols',
     'age': 25,
     'city': 'Liberia, Monrovia',
-    'interests': ['Read','Exercise','Rest'],
+    'interests': ['Read','Exercise','Rest', 'pets'],
     'is student': True
 
 }
